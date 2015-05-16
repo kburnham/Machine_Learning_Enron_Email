@@ -1,0 +1,33 @@
+Kevin Burnham- Project 4 References
+
+Articles
+
+Akbani, Rehan, Stephen Kwek, and Nathalie Japkowicz. “Applying Support Vector Machines to Imbalanced Datasets.” In Machine Learning: ECML 2004, 39–50. Springer, 2004.
+
+Hsu, Chie-Wei, Chih-Ching Chang, and Chih-Jen Lin. “A Practical Guide to Support Vector Classification.” Department of Computer Science, National Taiwan University, 2010.
+
+Rojas, Raúl. “AdaBoost and the Super Bowl of Classifiers: A Tutorial Introduction to Adaptive Boosting.” Computer Science Department, Freie Universität Berlin, 2009. http://www.inf.fu-berlin.de/inst/ag-ki/adaboost4.pdf.
+
+Wu, Xindong, Vipin Kumar, J. Ross Quinlan, Joydeep Ghosh, Qiang Yang, Hiroshi Motoda, GeoffreyJ. McLachlan, et al. “Top 10 Algorithms in Data Mining.” Knowledge and Information Systems 14, no. 1 (January 1, 2008): 1–37. doi:10.1007/s10115-007-0114-2.
+
+
+Websites
+
+http://en.wikipedia.org/wiki/Enron_Corpus
+
+http://scikit-learn.org/stable/modules/pipeline.html
+
+http://scikit-learn.org/stable/modules/cross_validation.html
+
+http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html
+
+http://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html
+
+Discussion Forum Posts
+
+http://discussions.udacity.com/t/sholud-validation-and-testing-be-done-with-different-data/17932
+
+http://discussions.udacity.com/t/setting-parameters-on-the-base-estimator-with-adaboost/17094
+
+http://discussions.udacity.com/t/outlier-removal-with-a-classification-algorithm/16573/5
+
